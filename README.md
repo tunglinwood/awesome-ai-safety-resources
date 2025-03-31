@@ -8,3 +8,8 @@ An awesome list of resources regarding AI safety including topics, conferences, 
 - AI Sec Matrix - [https://aisecmatrix.org/en/](https://aisecmatrix.org/en/)
 
 ## Certification
+
+# Table of Techniques and Github repos
+|Type|List|
+|:-|:-|
+|**Jailbreak**|[Do Anything Now, DAN](https://github.com/0xk1h0/ChatGPT_DAN)|
