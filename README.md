@@ -12,4 +12,4 @@ An awesome list of resources regarding AI safety including topics, conferences, 
 # Table of Techniques and Github repos
 |Type|List|
 |:-|:-|
-|**Jailbreak**|[Do Anything Now, DAN](https://github.com/0xk1h0/ChatGPT_DAN)|
+|**Jailbreak**|[Do Anything Now, DAN](https://github.com/0xk1h0/ChatGPT_DAN) - @0xk1h0|
